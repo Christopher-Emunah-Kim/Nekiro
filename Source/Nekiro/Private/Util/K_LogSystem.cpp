@@ -2,3 +2,5 @@
 
 
 #include "Util/K_LogSystem.h"
+
+DEFINE_LOG_CATEGORY(LogKHS);
